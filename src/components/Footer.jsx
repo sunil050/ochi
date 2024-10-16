@@ -2,7 +2,7 @@ import React from "react";
 
 function Footer() {
   return (
-    <div data-scroll-section data-scroll className="w-full flex gap-5 h-screen bg-zinc-900 p-20 font-['Test_Founders_Grotesk_X_Condensed']">
+    <div  className="w-full flex gap-5 h-screen bg-zinc-900 p-20 font-['Test_Founders_Grotesk_X_Condensed']">
       <div className="w-1/2 h-full flex flex-col justify-between">
         <div className="heading">
           <h1 className="text-[8vw] font-semibold uppercase leading-none -mb-8">

@@ -51,7 +51,7 @@ function App() {
   }, []);
 
   return (
-    <div data-scroll-container data-scroll className=" bg-zinc-900 text-white m-0 overflow-hidden">
+    <div data-scroll-container data-scroll data-scroll-direction="down" data-scroll-offset="20%, -100%" className=" bg-zinc-900 text-white m-0 overflow-hidden">
       <Navbar />
       <LandingPage />
       <Marquee />

@@ -4,8 +4,8 @@ function About() {
   return (
       <div  data-scroll-section
       data-scroll
-      data-scroll-offset="-100%, 150%"
-      data-scroll-speed="2"
+      data-scroll-offset="0, 150%"
+      data-scroll-speed=".8"
       data-scroll-position="top" className="w-full h-full p-20 bg-[#CDEA68] rounded-tl-3xl rounded-tr-3xl text-black">
         <h1 className='font-["Neue_Montreal"] text-[4vw] leading-[4.5vw] tracking-tight'>
           Ouchi is a strategic partner for fast-growing tech businesses that

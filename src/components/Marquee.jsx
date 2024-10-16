@@ -6,8 +6,8 @@ function Marquee() {
     <div
       data-scroll-section
       data-scroll
-      data-scroll-offset="-100%, -100%"
-      data-scroll-speed="1"
+      data-scroll-offset="0, -110%"
+      data-scroll-speed="1.4"
       data-scroll-position="top"
       className="w-full py-20 rounded-tl-3xl rounded-tr-3xl bg-[#004D43]"
     >
